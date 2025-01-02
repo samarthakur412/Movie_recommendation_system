@@ -1,11 +1,11 @@
-# Movie_reccomendatin_system
+# Movie_recommendation_system
 
 ##Overview
 This project is a Movie Recommendation System that suggests movies based on user preferences. The data for this system is sourced from the TMDB (The Movie Database) API. The recommendation system leverages various machine learning techniques to provide users with personalized movie suggestions.
 
 ##Features
 Data Collection: Fetches movie data, including genres, ratings, and descriptions, from the TMDB API.
-Preprocessing: Cleans and preprocesses the data for efficient recommendation.
+Preprocessing: Cleans and preprocesses the data for an efficient recommendation.
 Recommendation Engine: Utilizes content-based filtering to recommend movies similar to a given movie or based on user preferences.
 User Interface: A simple command-line interface where users can input their preferences and receive movie recommendations.
 
